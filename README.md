@@ -1,0 +1,2 @@
+# TJPRecorderPlayer
+基于AVAudioRecorder的录音demo,可以实现录音、播放及删除录音文件功能,满足大部分需求
