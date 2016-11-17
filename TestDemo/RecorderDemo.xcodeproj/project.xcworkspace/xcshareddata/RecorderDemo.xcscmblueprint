@@ -1,0 +1,30 @@
+{
+  "DVTSourceControlWorkspaceBlueprintPrimaryRemoteRepositoryKey" : "0EB06A196230A8C9E80BBB66E0C770947C96D69E",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyRepositoryLocationsKey" : {
+
+  },
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyStatesKey" : {
+    "0EB06A196230A8C9E80BBB66E0C770947C96D69E" : 9223372036854775807,
+    "7B802A9EE9EB6BF59537149D33DDA9DA93829414" : 9223372036854775807
+  },
+  "DVTSourceControlWorkspaceBlueprintIdentifierKey" : "0A656C21-FDB5-4DD0-9975-195E49A058BB",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyPathsKey" : {
+    "0EB06A196230A8C9E80BBB66E0C770947C96D69E" : "RecorderDemo\/",
+    "7B802A9EE9EB6BF59537149D33DDA9DA93829414" : ""
+  },
+  "DVTSourceControlWorkspaceBlueprintNameKey" : "RecorderDemo",
+  "DVTSourceControlWorkspaceBlueprintVersion" : 204,
+  "DVTSourceControlWorkspaceBlueprintRelativePathToProjectKey" : "RecorderDemo.xcodeproj",
+  "DVTSourceControlWorkspaceBlueprintRemoteRepositoriesKey" : [
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/github.com\/CodeAcmen\/TJPRecordPlayer.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "0EB06A196230A8C9E80BBB66E0C770947C96D69E"
+    },
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/github.com\/CodeAcmen\/TJPRecorderPlayer.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "7B802A9EE9EB6BF59537149D33DDA9DA93829414"
+    }
+  ]
+}
